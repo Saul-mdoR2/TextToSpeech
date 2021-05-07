@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="txt_btnSpeak">Speak</string>
+    <string name="text_hint">Introdusca Texto</string>
+</resources>
