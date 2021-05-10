@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         etText = findViewById(R.id.etText)
-        btn = findViewById(R.id.btnLeer)
+        btn = findViewById(R.id.btnSpeak)
         btn.setOnClickListener {
             speakOut()
         }
